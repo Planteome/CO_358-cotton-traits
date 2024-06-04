@@ -1,4 +1,8 @@
-Cotton Trait Ontology is maintained by http://www.cropontology.org and http://www.cottongen.org
+# Cotton Trait Ontology 
+[![DOI](https://zenodo.org/badge/394309832.svg)](https://zenodo.org/doi/10.5281/zenodo.11472892)
+
+
+The Cotton Trait Ontology is maintained by http://www.cropontology.org and http://www.cottongen.org
 
 Ontology name: Cotton Trait Ontology
 
